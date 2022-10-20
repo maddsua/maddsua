@@ -1,1 +1,1 @@
-Don't see any recent activity here? It's probably because I was busy doing some real work. In Ukraine we like to use [GitLab](https://gitlab.com/maddsua) for it. [GitLab](https://gitlab.com/maddsua) is just much better for private projects (9/10 of my work 😎) and those fancy devops things.
+Don't see any recent activity here? It's probably because I was gone making some private stuff at [GitLab](https://gitlab.com/maddsua)
