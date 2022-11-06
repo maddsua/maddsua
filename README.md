@@ -1,4 +1,4 @@
-## Don't see any recent activity here? It's probably because I was gone making some private stuff at [<img src="icons/gitlab.svg" width="24px" height="24px"> GitLab](https://gitlab.com/maddsua)
+## Don't see any recent activity here? It's probably because I was out of party making some private stuff at [<img src="icons/gitlab.svg" width="24px" height="24px"> GitLab](https://gitlab.com/maddsua)
 
 # Tools and languages
 
