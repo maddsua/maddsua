@@ -1,6 +1,4 @@
-Don't see any recent activity here? It's probably because I was gone making some private stuff at [<img src="icons/gitlab.svg" width="18px" height="18px"> GitLab](https://gitlab.com/maddsua)
-
-<br>
+## Don't see any recent activity here? It's probably because I was gone making some private stuff at [<img src="icons/gitlab.svg" width="24px" height="24px"> GitLab](https://gitlab.com/maddsua)
 
 # Tools and languages
 
@@ -9,8 +7,6 @@ I'm not listing tools like Photoshop/Indesign/Premiere Pro or even Blender.
 Including this tools, you would see a pretty long list. Nobody usually cares. If you do, feel free to ask.
 
 ## IoT, platform specific or backend
-
-<br>
 
 <div style="display: flex;">
   <img src="icons/c.svg" width="32px" height="32px">
@@ -22,11 +18,7 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
   <img src="icons/heroku.svg" width="32px" height="32px">
 </div>
 
-<br>
-
 ## Frontend, or rather Jamstack
-
-<br>
 
 <div style="display: flex;">
   <img src="icons/js.svg" width="32px" height="32px">
@@ -38,8 +30,6 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
   <img src="icons/vercel.svg" width="32px" height="32px">
   <img src="icons/vue.svg" width="32px" height="32px">
 </div>
-
-<br>
 
 ---
 
