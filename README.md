@@ -23,8 +23,6 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
 <div style="display: flex;">
   <img src="icons/js.svg" width="32px" height="32px">
   <img src="icons/typescript.svg" width="32px" height="32px">
-  <img src="icons/html.svg" width="32px" height="32px">
-  <img src="icons/css.svg" width="32px" height="32px">
   <img src="icons/netlify.svg" width="32px" height="32px">
   <img src="icons/firebase.svg" width="32px" height="32px">
   <img src="icons/vercel.svg" width="32px" height="32px">
