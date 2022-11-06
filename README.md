@@ -41,4 +41,6 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
 
 <br>
 
-Sorted by the level of experience (like hours in-game on Steam), where first place means that tool or language was extensively used by me for a long time, and last place does not means anything and my scale is just broken 🤣
+---
+
+Sorted by the level of experience (like hours in-game on Steam), where first place means that tool or language was extensively used by me for a long time, and last place does not means anything and my scale is just broken 😎
