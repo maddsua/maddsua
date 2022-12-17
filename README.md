@@ -16,6 +16,7 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
   <img src="icons/nodejs.svg" width="32px" height="32px">
   <img src="icons/deno.svg" width="32px" height="32px">
   <img src="icons/heroku.svg" width="32px" height="32px">
+  <img src="icons/npm.svg" width="32px" height="32px">
 </div>
 
 ## Frontend, or rather Jamstack
@@ -28,7 +29,6 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
   <img src="icons/firebase.svg" width="32px" height="32px">
   <img src="icons/vercel.svg" width="32px" height="32px">
   <img src="icons/vue.svg" width="32px" height="32px">
-  <img src="icons/npm.svg" width="32px" height="32px">
 </div>
 
 ---
