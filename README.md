@@ -6,6 +6,8 @@ I'm not listing tools like Photoshop/Indesign/Premiere Pro or even Blender.
 
 Including this tools, you would see a pretty long list. Nobody usually cares. If you do, feel free to ask.
 
+Just cause lot of icons look cool 😎
+
 ## IoT, platform specific or backend
 
 <div style="display: flex;">
@@ -25,6 +27,8 @@ Including this tools, you would see a pretty long list. Nobody usually cares. If
 <div style="display: flex;">
   <img src="icons/js.svg" width="32px" height="32px">
   <img src="icons/typescript.svg" width="32px" height="32px">
+  <img src="icons/sass.svg" width="32px" height="32px">
+  <img src="icons/esbuild.svg" width="32px" height="32px">
   <img src="icons/netlify.svg" width="32px" height="32px">
   <img src="icons/firebase.svg" width="32px" height="32px">
   <img src="icons/vercel.svg" width="32px" height="32px">
