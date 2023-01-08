@@ -4,7 +4,7 @@
 
 I'm not listing tools like Photoshop/Indesign/Premiere Pro or even Blender.
 
-Including this tools, you would see a pretty long list. Nobody usually cares. If you do, feel free to ask.
+Including that tools, you would see a pretty long list. Nobody usually cares. If you do, feel free to ask.
 
 Just cause lot of icons look cool 😎
 
